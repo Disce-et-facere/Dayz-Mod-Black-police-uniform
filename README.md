@@ -1,7 +1,7 @@
 # Dayz-Mod-Black-police-uniform
 Dayz mod that adds a custom black police uniform
 
-## Mod Specs
+## Uniform specifications
 ### Police cap
 - Inventory slots: 0
 - Hitpoints: 200
@@ -26,4 +26,5 @@ Dayz mod that adds a custom black police uniform
 - Inventory slots: 0
 - Hitpoints: 200
 - Attachments: Knife slot
+...
 ![til](./media/policeUniform.gif)
