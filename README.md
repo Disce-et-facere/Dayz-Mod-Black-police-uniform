@@ -18,6 +18,10 @@ Dayz mod that adds a custom black police uniform
 - Inventory slots: 500
 - Hitpoints: 200
 - Attachments: Hidden shoulder slot, Radio slot, Melee slot
+### Police Gloves(surgical gloves)
+- Inventory slots: 0
+- Hitpoints: 200
+- Attachments: None
 ### Police Pants
 - Inventory slots: 100
 - Hitpoints: 200
