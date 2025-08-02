@@ -33,3 +33,5 @@ Dayz mod that adds a custom black police uniform
 
 ---
 ![til](./media/PoliceUniform2.gif)
+![til](./media/front.jpg)
+![til](./media/back.jpg)
