@@ -32,4 +32,4 @@ Dayz mod that adds a custom black police uniform
 - Attachments: Knife slot
 
 ---
-![til](./media/policeUniform.gif)
+![til](./media/PoliceUniform2.gif)
